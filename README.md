@@ -1,6 +1,6 @@
 # Un_UnmanagedStrings
 
-[![CodeFactor](https://www.codefactor.io/repository/github/thehelltower/Un_UnmanagedStrings/badge)](https://www.codefactor.io/repository/github/thehelltower/Un_UnmanagedStrings)
+[![CodeFactor](https://www.codefactor.io/repository/github/thehelltower/UnUnmanagedStrings/badge)](https://www.codefactor.io/repository/github/thehelltower/UnUnmanagedStrings)
 
 ## 📜 What is Un_UnmanagedStrings ?
 
